@@ -58,7 +58,7 @@ const Hidden = ({ keepHeightTo }) => {
 
 ```js
 
-import { IntersectionRow } from 'sj-intersection'
+import { IntersectionRow } from '@nilswg/intersection'
 
 <IntersectionRow debug /> // 啟用 debug 模式
 
